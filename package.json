@@ -8,7 +8,7 @@
     "zaif.jp" : ""
   },
   "readmeFilename": "README.md",
-  "description": "zaif.jp easy stream",
+  "description": "[alpha release] zaif.jp easy stream",
   "main": "index.js",
   "devDependencies": {
     "mocha" : "",
